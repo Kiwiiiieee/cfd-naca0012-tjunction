@@ -44,7 +44,7 @@ Two ANSYS Fluent studies, each checked against theory:
 
 ## Repository contents
 | Path | Content | Opens with |
-|---|---|---|
+|:--|:--|:--|
 | `report/AERODYNAMICS_3.pdf` | Homework 3: ANSYS simulation and flow analysis of a T-junction pipe | Any PDF reader |
 | `report/AERODYNAMICS_4.pdf` | Homework 4: ANSYS CFD simulation of a NACA 0012 airfoil | Any PDF reader |
 | `figures/` | Fluent post-processing images | Image viewer |
@@ -58,5 +58,4 @@ Team project with **Kaoutar Ammara**, **Sena Güven** and **Sila Arslan** (names
 ## References
 ANSYS Fluent User Guide; White, *Fluid Mechanics*, 7th ed. (2011); Pope, *Turbulent Flows* (2000); Abbott & von Doenhoff, *Theory of Wing Sections* (1959); Anderson, *Fundamentals of Aerodynamics* (2010); airfoiltools.com airfoil plotter.
 
----
 Kaoutar Ammara · Aerospace Engineer · [GitHub](https://github.com/Kiwiiiieee) · [LinkedIn](https://linkedin.com/in/kaoutar-ammara)
